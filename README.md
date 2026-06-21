@@ -1,2 +1,14 @@
 # cnjcw-hub-archive
-HTML page archive and documentation
+
+页面归档与发布记录
+
+这里作为静态内容目录，保存自动化生成的页面。
+
+## 文件说明
+
+- `README.md`：仓库说明
+- `*.html`：发布后的独立页面
+
+## 注意事项
+
+README 仅说明仓库用途，不替代具体页面内容。
